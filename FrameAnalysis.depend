@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1590701684 source:c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\main.cpp
+	<iostream>
+	"BeamElement.h"
+	"ReadTexFileClass.h"
+	"FEClass.h"
+
+1589931091 source:c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\node.cpp
+	"Node.h"
+
+1590701198 c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\node.h
+	<iostream>
+	<vector>
+	<Eigen/Dense>
+	<cmath>
+
+1589300891 source:c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\beamelement.cpp
+	"BeamElement.h"
+
+1589300587 c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\beamelement.h
+	<iostream>
+	<vector>
+	<cmath>
+	"Node.h"
+
+1589931029 source:c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\readtexfile.cpp
+	"ReadTexFileClass.h"
+
+1589930060 c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\readtexfileclass.h
+	<iostream>
+	<vector>
+	<fstream>
+	"Node.h"
+	"BeamElement.h"
+	<Eigen/Dense>
+
+1590700500 source:c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\fecalc.cpp
+	"FEClass.h"
+
+1590700486 c:\users\behroozkeshavarzi\documents\frameii\frameanalysis\feclass.h
+	"ReadTexFileClass.h"
+
